@@ -1,0 +1,11 @@
+
+                  ***** to download github specific subdirectory *******
+1- install tortoise svn 
+2- in the folder you want to download things in creat new empty flder then click on it choose tortoise checkout 
+3- copy the url of the specific github and change it by replacing *** master/tree*** to trunk 
+examle 
+
+https://github.com/akashyap2013/Books-bootstrap-website/tree/master/assets
+
+                              to 
+https://github.com/akashyap2013/Books-bootstrap-website/trunk/assets
