@@ -9,7 +9,6 @@
   -moz-box-sizing: border-box;
   margin: 0;
   scroll-behavior: smooth;
-
 }
 body {
   font-family: "Open Sans";
@@ -378,6 +377,9 @@ hr {
   color: white;
 }
 @media (max-width: 997px) {
+  * {
+    overflow: hidden;
+  }
   .footer-con li {
     margin-left: 65px;
   }
@@ -391,6 +393,9 @@ hr {
   }
 }
 @media (max-width: 667px) {
+  * {
+    overflow: hidden;
+  }
   .footer-con li {
     text-align: center;
     margin-left: -35px;
