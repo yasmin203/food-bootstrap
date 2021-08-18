@@ -333,7 +333,7 @@ footer h2 {
   padding: 8px;
   border: 1px solid white;
   margin-left: -5px;
-  width: 100px;
+  max-width: 100px;
   outline: none;
 }
 .footer-con {
