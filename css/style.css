@@ -134,7 +134,11 @@ body {
     top: 0;
     left: 0;
     text-align: center;
-    margin: 100px 10px;
+    margin: 60px -30px;
+  }
+  .red-caption h1{
+    font-size: 16px;
+
   }
 }
 /* End landin */
@@ -225,13 +229,13 @@ p {
   position: relative;
 }
 .lunch .container {
-  overflow: visible;
+  /* overflow: visible; */
 }
 .red-caption {
   position: relative;
   bottom: 350px;
   left: 50px;
-  width: 400px;
+  max-width: 300px;
 }
 .red-caption h1 {
   letter-spacing: 1px;
