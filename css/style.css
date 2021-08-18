@@ -67,7 +67,6 @@ body {
   -moz-border-radius: 60px;
   -ms-border-radius: 60px;
   -o-border-radius: 60px;
- 
 }
 
 /* Start Landing */
@@ -131,11 +130,11 @@ body {
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
   }
-  .red-caption{
+  .red-caption {
     top: 0;
     left: 0;
     text-align: center;
-    margin: 100px auto ;
+    margin: 100px 10px;
   }
 }
 /* End landin */
@@ -225,7 +224,7 @@ p {
   width: 100%;
   position: relative;
 }
-.lunch .container{
+.lunch .container {
   overflow: visible;
 }
 .red-caption {
@@ -391,7 +390,5 @@ hr {
     margin-top: 16px;
     margin-right: -40px;
   }
-
- 
 }
 /* end Contact us */
